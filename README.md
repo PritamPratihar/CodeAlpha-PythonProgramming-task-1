@@ -1,6 +1,5 @@
 # CodeAlpha-PythonProgramming-task-1
 this is my intership task 1.
-
 # Hangman – Python (Tkinter)
 
 A simple **Hangman** game made with **Python** and **Tkinter**.
